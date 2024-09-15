@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="https://t.me/Zer1l" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kwork logo"  />
+    <img src="https://sun1-90.userapi.com/s/v1/ig2/u0YJNA8GKehbnIv2McsXyPUXWgkzMttiGGy-SPHRFTWhNknoCUDB0O6DkuioUboalXujGNUkVGj5cfNa6S2HMjzq.jpg?size=409x409&quality=95&crop=51,51,409,409&ava=1" height="25" alt="kwork logo"  />
   </a>
 </div>
 

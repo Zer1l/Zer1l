@@ -25,7 +25,7 @@
 <p align="left">Я начинающий Frontend разработчик. С самой школы был заинтересован в программирование и двигался в этом направление. С поступление в ВУЗ стал активно изучать, пробовать разные технологие и осатновился на web-разработки. Изучил многожество курсов, библиотек, прочитал большое количество документаций и сейчас успешно выполняю заказы на Kworke.
 <br> 
   <a href="https://t.me/Zer1l" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=MY KWORKd&logo=kwork&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kwork logo"  />
+    <img src="https://img.shields.io/static/v1?message=MY KWORK&logo=kwork&label=&color=252525&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kwork logo"  />
   </a>
 </p>
 

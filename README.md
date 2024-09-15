@@ -14,10 +14,7 @@
   <a href="https://t.me/Zer1l" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://t.me/Zer1l" target="_blank"> 
-    <img src="https://sun1-90.userapi.com/s/v1/ig2/u0YJNA8GKehbnIv2McsXyPUXWgkzMttiGGy-SPHRFTWhNknoCUDB0O6DkuioUboalXujGNUkVGj5cfNa6S2HMjzq.jpg?size=409x409&quality=95&crop=51,51,409,409&ava=1" height="25" alt="kwork logo"  />
-    Мой кворк
-  </a>
+  <a href="https://twitter.com/ileriayooo" rel="nofollow"><img src="https://camo.githubusercontent.com/be5256cc9aa95d05f7221a604f4ec52c984eba47ae25ba084b532eddbb96a390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 
 ###
